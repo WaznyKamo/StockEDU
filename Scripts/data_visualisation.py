@@ -22,7 +22,7 @@ def plot_multiple_y_axes(df, columns, title_prefix="Wykres"):
         yaxis_ref = f'y{axis_suffix}'
 
         fig.add_trace(go.Scatter(
-            x=df['Data'],
+            x=df['Data publikacji'],
             y=df[col],
             name=col,
             yaxis=yaxis_ref,
@@ -47,7 +47,7 @@ def plot_multiple_y_axes(df, columns, title_prefix="Wykres"):
     fig.update_layout(
         title=f"{title_prefix}: {', '.join(columns)}",
         xaxis=dict(
-            title='Data',
+            title='Data publikacji',
             tickfont=dict(size=10),
             domain=[0.0, 0.85],  # Os X zajmuje do 80% szerokości wykresu
         ),
