@@ -2,30 +2,55 @@ import streamlit as st
 import pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
 from Scripts.data_visualisation import plot_multiple_y_axes
+import plotly.express as px
 
-st.title("🔍 Wyszukiwarka spółek")
-st.write("Sprawdź historyczne wyniki oraz wskaźniki finansowe wybranej spółki.")
 
 all_data = st.session_state.all_data
-# yearly_data = st.session_state.yearly_data
+daily_data = st.session_state.daily_data
+technical_data = st.session_state.technical_data
 
-
-selected_company_name = st.selectbox(
+# Sekcja nagłówka i wyboru spółki
+col1, col2 = st.columns([1, 2]) 
+with col1:
+    st.title("🔍 Wyszukiwarka spółek")
+    st.write("Sprawdź historyczne wyniki oraz wskaźniki finansowe wybranej spółki.")
+    selected_company_name = st.selectbox(
     "Wybierz spółkę:",
     options=all_data["Nazwa+ticker"].unique()
-)
-
-name_to_ticker = dict(zip(all_data["Nazwa+ticker"], all_data["Ticker"]))
+    )
+    name_to_ticker = dict(zip(all_data["Nazwa+ticker"], all_data["Ticker"]))
 
 selected_company_ticker = name_to_ticker[selected_company_name]
+with col2:
+
+    # Sprawdź czy w daily_data jest kolumna z tickerem
+    if selected_company_ticker not in daily_data.columns:
+        st.warning(f"Brak kolumny z cenami dla tickera: {selected_company_ticker}")
+    else:
+        df_prices = daily_data[["DATE", selected_company_ticker]].copy()
+        # Konwersja daty i porządkowanie
+        df_prices["DATE"] = pd.to_datetime(df_prices["DATE"], errors="coerce")
+        df_prices = df_prices.dropna(subset=["DATE"]).sort_values("DATE")
+
+        if df_prices.empty:
+            st.warning("Brak danych dziennych dla wybranej spółki.")
+        else:
+            # Wykres liniowy cen
+            fig = px.line(df_prices, x="DATE", y=selected_company_ticker,
+                            labels={"DATE": "Data", selected_company_ticker: "Cena"},
+                            title=f"Cena akcji — {selected_company_name} ({selected_company_ticker})")
+            fig.update_layout(xaxis_title="DATE", yaxis_title="Cena", template="plotly_white")
+            st.plotly_chart(fig, use_container_width=True)
 
 # Filtrujemy dane dla wybranej spółki
 company_data = all_data[all_data["Ticker"] == selected_company_ticker].sort_values(by="Data publikacji", ascending=False)
 
 financial_data = company_data.drop(columns=["Nazwa", "Nazwa+ticker", "Ticker"])
 
-# Dodanie zakładek
-tab1, tab2 = st.tabs(["📊 Dane finansowe", "📉 Wizualizacja wskaźników"])
+stock_technical_data = technical_data[technical_data["Ticker"] == selected_company_ticker]
+
+# Sekcja zakładek
+tab1, tab2, tab3 = st.tabs(["📊 Dane finansowe", "📈 Wizualizacja wskaźników", "📡 Sygnały techniczne"], width="stretch")
 
 with tab1:
     st.subheader("Wskaźniki finansowe")
@@ -88,3 +113,30 @@ with tab2:
         st.info("Poniższy wykres jest interaktywny. Zaznaczenie pola pozwala przybliżyć dane. Podwójne kliknięcie przywraca widok początkowy.")
         # st.subheader(f"Wykres: {wybrana_spolka}")
         plot_multiple_y_axes(financial_data, st.session_state.kolumny_wykres, title_prefix="Wskaźniki")
+with tab3:
+    # Pobranie sygnału bez błędów gdy brak danych
+    if not stock_technical_data.empty and "Overall_signal" in stock_technical_data.columns:
+        signal = str(stock_technical_data["Overall_signal"].iloc[0])
+    else:
+        signal = "Brak"
+
+    sig_lower = signal.lower()
+    if "sprzedaj" in sig_lower:
+        color = "red"
+    elif "kupuj" in sig_lower:
+        color = "green"
+    else:
+        color = "black"
+
+    # Wyświetlenie jako subheader z kolorem (tag h3 by dopasować rozmiar)
+    st.markdown(f"<h3>Sygnał ogólny: <span style='color:{color}; font-weight:700'>{signal}</span></h3>", unsafe_allow_html=True)
+
+    st.write("RSI (Relative Strength Index): " + str(stock_technical_data["RSI"].iloc[0])  + " " + stock_technical_data["RSI_signal"].iloc[0])
+
+    st.write("MACD (różnica): " + str(stock_technical_data["MACD_diff"].iloc[0])  + " " + stock_technical_data["MACD_signal"].iloc[0])
+
+    st.write("Sygnał Wstęgi Bollingera: " + stock_technical_data["BB_signal"].iloc[0])
+
+    st.write("CCI (Commodity Channel Index): " + str(stock_technical_data["CCI"].iloc[0])  + " " + stock_technical_data["CCI_signal"].iloc[0])
+
+    st.write("Oscylator stochastyczny: " + str(stock_technical_data["Stochastic"].iloc[0])  + " " + stock_technical_data["Stochastic_signal"].iloc[0])

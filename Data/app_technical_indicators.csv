@@ -1,0 +1,395 @@
+Ticker,Date,Close,RSI,MACD_diff,SMA20,CCI,ADX,Stochastic,RSI_signal,MACD_signal,BB_signal,CCI_signal,Stochastic_signal,Overall_signal
+06N,2025-10-30,3.05,66.67,0.0127,2.86,153.71,,84.37,Sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Silne sprzedaj
+08N,2025-10-30,0.72,40.0,0.0007,0.73,-48.99,,0.0,Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Silne Kupuj
+11B,2025-10-30,177.8,20.21,-1.3453,187.3,-89.32,,10.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+1AT,2025-10-30,58.0,51.06,0.0866,57.69,51.63,,81.82,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+3RG,2025-10-30,0.82,35.45,-0.0033,0.85,-92.58,,16.67,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+4MS,2025-10-30,4.35,42.0,-0.0029,4.46,-97.5,,0.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+AAT,2025-10-30,1.69,43.68,0.0075,1.75,-41.22,,45.1,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ABE,2025-10-30,96.9,43.65,-0.0111,97.49,-47.13,,38.46,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ABS,2025-10-30,86.0,34.09,-0.1825,86.77,-39.19,,25.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ACG,2025-10-30,26.0,40.43,-0.0584,26.4,-68.94,,18.18,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+ACP,2025-10-30,222.2,63.13,0.4933,222.07,0.94,,64.89,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ACT,2025-10-30,30.85,63.77,0.0104,29.92,38.13,,97.14,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+ADV,2025-10-30,0.66,34.09,0.001,0.68,-49.35,,33.33,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+AGO,2025-10-30,9.18,39.58,-0.0335,9.3,-38.25,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+AGT,2025-10-30,5.44,58.67,0.0376,5.29,89.85,,65.22,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ALE,2025-10-30,34.47,69.25,0.158,34.05,33.88,,63.85,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ALG,2025-10-30,0.97,54.05,-0.0,0.98,-29.22,,53.57,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ALI,2025-10-30,2.8,46.15,-0.0241,2.78,20.54,,86.67,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+ALL,2025-10-30,15.26,30.94,-0.0643,16.3,-73.74,,9.46,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+ALR,2025-10-30,106.0,53.63,0.3644,105.57,16.65,,41.18,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+AMB,2025-10-30,19.74,55.17,0.0376,19.57,45.41,,86.96,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+AMC,2025-10-30,57.5,39.39,-0.1994,58.15,-55.8,,31.25,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ANR,2025-10-30,28.8,47.56,-0.0626,29.22,-44.23,,5.88,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+APE,2025-10-30,2.9,31.34,-0.0322,3.1,-110.45,,13.51,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+APL,2025-10-30,0.88,35.37,-0.0041,0.95,-197.19,,0.0,Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Silne Kupuj
+APN,2025-10-30,18.1,50.98,0.0346,17.95,52.5,,75.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+APR,2025-10-30,18.1,38.04,0.03,18.24,-26.16,,51.52,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+APT,2025-10-30,23.1,65.38,0.0774,22.42,48.85,,100.0,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+ARH,2025-10-30,45.3,40.87,-0.0022,45.92,-27.4,,55.56,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ARL,2025-10-30,41.2,26.66,-0.2549,43.18,-138.4,,6.33,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+ART,2025-10-30,13.94,45.11,0.0194,14.22,-41.14,,68.52,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ASB,2025-10-30,29.78,73.59,0.2248,28.14,154.69,,95.97,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+ASE,2025-10-30,66.8,40.56,-0.5271,69.99,-80.59,,5.45,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+AST,2025-10-30,45.85,60.73,0.3176,44.73,52.84,,77.66,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ATC,2025-10-30,8.52,52.67,0.06,8.51,4.08,,47.27,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ATD,2025-10-30,3.45,46.74,-0.0252,3.65,-73.57,,0.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+ATG,2025-10-30,3.95,58.97,0.0007,3.93,15.08,,50.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ATP,2025-10-30,16.95,39.58,-0.0356,17.0,-11.34,,41.18,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ATR,2025-10-30,48.6,50.33,-0.2012,48.68,-4.41,,33.33,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ATS,2025-10-30,2.13,48.72,0.004,2.11,53.49,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+ATT,2025-10-30,18.84,43.31,0.0112,18.89,-14.27,,51.16,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+AWM,2025-10-30,0.37,32.35,-0.0002,0.38,-54.72,,13.79,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+B24,2025-10-30,53.2,48.48,-0.0373,54.52,-51.01,,25.93,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+BBD,2025-10-30,5.1,52.34,0.0104,5.06,23.64,,68.75,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+BBT,2025-10-30,6.46,55.88,-0.0026,6.49,-15.31,,33.33,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+BCM,2025-10-30,4.9,44.9,-0.0164,4.93,-19.65,,58.33,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+BCS,2025-10-30,12.3,34.59,-0.0963,12.96,-136.53,,10.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+BCX,2025-10-30,99.0,52.46,0.2019,98.09,24.85,,84.62,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+BDX,2025-10-30,587.0,76.73,7.0988,538.03,182.41,,93.63,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+BFT,2025-10-30,3135.0,34.07,-15.7625,3243.0,-80.53,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+BHW,2025-10-30,104.8,53.41,0.1603,104.15,25.28,,77.36,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+BIO,2025-10-30,4.25,42.42,-0.0042,4.29,-31.77,,50.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+BIP,2025-10-30,24.4,80.0,0.5291,19.88,147.64,,100.0,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+BLO,2025-10-30,25.6,27.78,0.0359,25.68,-16.41,,12.5,Silne Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+BMC,2025-10-30,28.55,19.68,-1.0104,33.84,-117.8,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+BMX,2025-10-30,13.0,58.82,0.0205,13.02,-5.63,,60.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+BNP,2025-10-30,111.5,77.78,0.7968,106.45,137.27,,100.0,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+BOS,2025-10-30,11.84,65.22,0.0685,11.39,192.48,,100.0,Sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Silne sprzedaj
+BOW,2025-10-30,5.1,39.62,-0.0131,5.2,-28.45,,61.9,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+BRS,2025-10-30,6.0,36.36,-0.0744,6.44,-93.77,,0.0,Kupuj,Sprzedaj,Kupuj,Trzymaj,Kupuj,Kupuj
+BST,2025-10-30,27.8,39.13,-0.1504,28.17,-35.24,,37.5,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CAP,2025-10-30,0.42,59.06,0.0014,0.41,96.81,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+CAR,2025-10-30,551.0,48.61,1.1024,550.25,11.65,,50.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+CAV,2025-10-30,14.85,64.44,0.0751,14.03,50.3,,72.41,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CBF,2025-10-30,187.2,59.17,0.0418,187.06,2.18,,56.67,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+CCC,2025-10-30,152.0,46.44,0.8919,153.05,-4.29,,58.23,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+CCE,2025-10-30,0.26,33.33,-0.0027,0.29,-134.15,,0.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+CDL,2025-10-30,9.95,43.4,-0.0157,9.93,7.32,,68.75,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CDR,2025-10-30,257.3,47.05,-0.371,260.96,-29.22,,70.25,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CEZ,2025-10-30,228.6,52.17,0.0068,226.24,68.14,,84.44,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+CFI,2025-10-30,0.16,54.0,0.0,0.17,-8.73,,50.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+CIG,2025-10-30,2.89,28.26,-0.0153,3.02,-89.24,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+CLC,2025-10-30,6.52,71.11,0.0616,5.97,353.74,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+CLD,2025-10-30,58.0,68.0,1.0034,51.51,171.07,,86.21,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+CLE,2025-10-30,2.7,56.5,-0.0033,2.69,4.5,,43.24,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CLN,2025-10-30,21.6,30.91,-0.0819,22.28,-103.06,,11.11,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+CMP,2025-10-30,58.0,46.75,0.0463,57.89,4.36,,69.23,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+CMR,2025-10-30,331.0,50.0,-0.0499,330.5,36.68,,66.67,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+COG,2025-10-30,6.55,29.16,-0.0571,7.01,-76.83,,8.27,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+CPA,2025-10-30,0.6,48.31,-0.0218,0.65,-16.45,,9.09,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+CPD,2025-10-30,3.65,43.88,0.1005,3.59,6.14,,98.11,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+CPI,2025-10-30,72.0,4.55,-0.546,76.99,-165.1,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+CPL,2025-10-30,7.9,65.15,0.0327,7.23,58.46,,63.64,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CPR,2025-10-30,0.92,53.21,-0.0013,0.91,75.26,,66.67,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CPS,2025-10-30,13.19,25.17,-0.0986,14.2,-137.64,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+CRI,2025-10-30,388.0,49.44,-0.5899,384.82,11.47,,53.75,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CRIA,2025-10-30,267.0,78.04,3.1015,237.0,,,89.83,Silne sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+CRJ,2025-10-30,438.0,36.62,-1.27,444.55,-41.56,,9.38,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+CRM,2025-10-30,0.42,32.76,0.0006,0.43,-29.85,,3.85,Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Silne Kupuj
+CSR,2025-10-30,3.84,41.07,-0.0002,3.88,-33.0,,29.41,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+CTS,2025-10-30,6.0,65.38,0.0222,5.75,132.42,,100.0,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+CTX,2025-10-30,48.0,79.41,0.7394,42.27,122.51,,90.0,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+CZT,2025-10-30,0.43,59.14,0.0046,0.43,12.82,,48.57,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+DAD,2025-10-30,61.4,42.22,-0.4571,62.97,-78.37,,38.89,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+DAT,2025-10-30,92.12,38.1,0.1565,95.31,-63.32,,32.84,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+DBC,2025-10-30,82.5,60.42,0.2175,81.2,86.49,,92.86,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+DBE,2025-10-30,12.2,51.52,0.056,11.84,55.88,,74.07,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+DCR,2025-10-30,69.2,33.87,-0.1917,71.13,-51.16,,22.22,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+DEK,2025-10-30,90.6,66.07,-0.1512,87.88,34.35,,81.82,Sprzedaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Silne sprzedaj
+DEL,2025-10-30,6.26,34.29,-0.0089,6.4,-142.05,,0.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+DGA,2025-10-30,26.9,31.46,-0.5636,28.74,-49.14,,22.5,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+DGE,2025-10-30,29.6,37.5,-0.6414,30.78,-16.93,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+DIA,2025-10-30,185.4,56.21,0.6401,185.61,-1.44,,47.74,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+DIG,2025-10-30,98.6,77.84,0.9799,91.9,113.69,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+DMG,2025-10-30,3.14,49.06,0.0185,3.16,-9.54,,78.57,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+DNP,2025-10-30,45.08,61.49,0.1139,44.34,49.56,,77.05,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+DOM,2025-10-30,242.0,51.0,0.061,242.15,-2.07,,41.67,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+DTR,2025-10-30,11.3,41.86,-0.0707,11.88,-87.35,,31.25,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+DVL,2025-10-30,8.17,56.77,0.015,8.15,9.31,,54.55,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+EAH,2025-10-30,36.9,34.09,-0.0013,36.74,11.27,,55.56,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+EAT,2025-10-30,15.0,42.99,-0.013,15.05,-12.39,,28.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ECB,2025-10-30,27.3,39.06,0.0061,27.47,-23.66,,48.0,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ECH,2025-10-30,5.5,44.44,-0.0071,5.55,-44.0,,25.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+EDI,2025-10-30,6.2,53.06,0.0005,6.12,42.72,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+EFK,2025-10-30,4.82,24.1,-0.0192,5.13,-178.48,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+EHG,2025-10-30,3.16,52.73,-0.0182,3.06,64.38,,70.83,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+EKP,2025-10-30,2.3,38.24,-0.0044,2.34,-96.08,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+ELT,2025-10-30,50.2,42.27,-0.1262,51.18,-60.61,,20.83,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+EMC,2025-10-30,11.0,60.0,0.0266,10.9,128.21,,100.0,Trzymaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+ENA,2025-10-30,20.86,71.78,0.2654,19.03,107.23,,86.11,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+ENE,2025-10-30,18.4,48.78,0.0133,18.18,54.47,,90.91,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+ENG,2025-10-30,14.96,65.26,0.0541,14.53,96.57,,69.81,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ENI,2025-10-30,3.19,51.61,-0.0186,3.12,28.44,,75.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ENP,2025-10-30,2.96,63.64,0.0047,2.9,116.64,,100.0,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+ENT,2025-10-30,53.0,28.17,-0.5134,56.05,-163.42,,2.44,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+EQU,2025-10-30,0.95,50.75,-0.0068,0.98,-43.27,,0.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+ERB,2025-10-30,29.5,23.81,0.0605,29.87,-20.55,,0.0,Silne Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+ERG,2025-10-30,43.0,35.71,-0.1162,44.53,-45.94,,50.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ETL,2025-10-30,29.7,40.82,-0.0148,29.64,3.02,,70.73,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+EUC,2025-10-30,1.71,39.34,0.0246,1.84,-38.9,,8.0,Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Silne Kupuj
+EUR,2025-10-30,8.09,52.58,-0.005,8.12,-20.99,,46.58,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+FAB,2025-10-30,26.7,60.0,0.0897,26.25,96.23,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+FEE,2025-10-30,12.35,25.58,-0.0285,12.7,-70.36,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+FHB,2025-10-30,2.6,16.67,-0.0102,2.67,-297.69,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+FMG,2025-10-30,89.8,40.0,0.1918,91.31,-26.42,,34.48,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+FON,2025-10-30,0.28,38.78,0.0207,0.28,-2.08,,40.0,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+FRO,2025-10-30,31.5,47.83,0.1226,31.38,27.27,,66.67,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+FSG,2025-10-30,12.7,47.37,0.007,12.71,-3.26,,66.67,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+FTE,2025-10-30,26.1,45.71,0.1141,26.24,-17.4,,64.29,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+GEA,2025-10-30,3.06,26.83,-0.0295,3.2,-142.03,,9.09,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+GIF,2025-10-30,8.5,76.92,0.0682,7.75,84.16,,100.0,Silne sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+GIG,2025-10-30,2.05,39.29,-0.0107,2.12,-21.78,,46.67,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+GKI,2025-10-30,3.11,40.74,-0.0101,3.2,-73.43,,0.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+GMT,2025-10-30,5.46,27.23,-0.0724,6.26,-133.4,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+GOB,2025-10-30,21.8,37.78,-0.0335,22.83,-123.28,,0.0,Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Silne Kupuj
+GOP,2025-10-30,14.96,42.53,-0.0117,14.86,20.08,,60.98,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+GPP,2025-10-30,57.2,23.08,-0.0639,59.82,-54.18,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Trzymaj,Kupuj,Kupuj
+GPW,2025-10-30,60.3,76.77,0.4561,56.79,308.39,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+GRN,2025-10-30,10.75,50.0,0.0151,10.72,17.22,,83.33,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+GRX,2025-10-30,1.88,57.53,0.0114,1.85,36.34,,43.42,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+GTC,2025-10-30,3.66,17.74,-0.0219,3.91,-123.24,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+GTN,2025-10-30,0.6,84.07,0.0054,0.54,225.26,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+HDR,2025-10-30,17.55,41.75,-0.085,18.33,-131.61,,3.45,Trzymaj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+HEL,2025-10-30,28.2,52.05,0.0761,27.27,129.77,,100.0,Trzymaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+HMI,2025-10-30,25.0,9.42,-1.3831,45.36,-387.46,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+HRP,2025-10-30,5.4,25.0,-0.0025,5.77,-48.72,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Trzymaj,Kupuj,Kupuj
+HRS,2025-10-30,1.47,77.89,0.0131,1.37,59.01,,82.46,Silne sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+HUG,2025-10-30,24.0,58.62,0.0113,23.34,98.88,,85.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+IBS,2025-10-30,62.8,55.29,0.101,64.39,-23.62,,29.63,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ICE,2025-10-30,12.28,53.19,-0.0008,12.15,17.7,,58.23,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+IDM,2025-10-30,0.55,13.33,-0.0026,0.57,-71.37,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+IFI,2025-10-30,30.4,54.84,0.0068,30.14,86.56,,86.67,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+IMC,2025-10-30,26.1,65.52,0.4693,23.86,91.09,,91.67,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+IMP,2025-10-30,1.41,41.38,-0.0081,1.45,-62.36,,0.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+IMS,2025-10-30,3.0,31.88,0.0011,3.03,-20.66,,35.48,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+INC,2025-10-30,1.64,33.71,-0.0042,1.7,-57.79,,41.86,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ING,2025-10-30,317.0,60.61,1.8216,309.4,88.15,,77.27,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+INK,2025-10-30,37.8,46.0,0.0031,38.08,-38.1,,11.11,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+INL,2025-10-30,6.92,25.0,-0.0396,7.31,-142.14,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+INP,2025-10-30,8.3,55.0,-0.0156,8.13,97.7,,100.0,Trzymaj,Sprzedaj,Sprzedaj,Trzymaj,Sprzedaj,Silne sprzedaj
+IPE,2025-10-30,3.11,48.48,-0.0089,3.15,-19.67,,0.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+IPO,2025-10-30,0.54,49.23,-0.0012,0.54,17.74,,76.47,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ITB,2025-10-30,2.14,57.89,-0.0118,2.22,-119.21,,0.0,Trzymaj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+IZB,2025-10-30,27.0,48.94,0.1991,26.38,58.17,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+IZO,2025-10-30,3.77,25.81,-0.0109,3.82,-20.61,,14.81,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+IZS,2025-10-30,3.48,53.17,-0.0134,3.44,15.31,,80.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+JRH,2025-10-30,6.92,34.21,-0.1468,7.67,-59.51,,0.0,Kupuj,Sprzedaj,Kupuj,Trzymaj,Kupuj,Kupuj
+JSW,2025-10-30,25.78,44.65,-0.0304,25.29,29.39,,58.09,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+JWW,2025-10-30,3.21,70.15,0.0199,3.07,103.1,,100.0,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+KCH,2025-10-30,0.77,60.47,0.0052,0.73,122.46,,100.0,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+KCI,2025-10-30,0.97,66.67,0.0,0.96,57.0,,92.86,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+KER,2025-10-30,19.1,53.26,0.0204,18.97,55.0,,88.46,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+KGH,2025-10-30,194.0,55.16,-1.1231,187.88,21.33,,72.65,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+KGL,2025-10-30,10.8,16.0,-0.1547,12.18,-126.07,,5.56,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+KGN,2025-10-30,63.7,82.42,0.3552,59.68,205.74,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+KMP,2025-10-30,23.8,55.56,0.0558,23.58,23.19,,40.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+KOM,2025-10-30,5.88,30.3,-0.0894,6.3,-44.98,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+KPD,2025-10-30,27.2,41.94,0.0074,27.74,-35.77,,30.77,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+KPL,2025-10-30,17.5,43.14,0.0607,17.38,20.19,,95.24,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+KRI,2025-10-30,17.35,44.68,0.019,17.48,-28.93,,64.29,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+KRK,2025-10-30,878.0,57.85,2.8992,863.9,24.16,,69.44,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+KRU,2025-10-30,478.3,72.75,2.9458,452.6,117.56,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+KSG,2025-10-30,3.64,41.67,-0.0081,3.69,-97.39,,15.38,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+KTY,2025-10-30,945.5,73.78,3.1993,918.42,95.86,,97.37,Silne sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+KVT,2025-10-30,10.3,68.75,0.0175,10.12,65.35,,71.43,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+LAB,2025-10-30,15.1,41.67,-0.0109,15.14,-23.26,,33.33,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+LBT,2025-10-30,1.45,42.86,-0.0048,1.5,-124.94,,0.0,Trzymaj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+LBW,2025-10-30,9.9,16.8,-0.1601,10.73,-86.77,,5.41,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+LEN,2025-10-30,2.8,42.42,-0.0007,2.81,-17.17,,41.67,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+LES,2025-10-30,0.24,52.0,0.0,0.24,69.57,,60.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+LKD,2025-10-30,22.3,21.74,-0.3039,23.7,-62.55,,6.06,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+LPP,2025-10-30,18100.0,64.51,125.1117,17263.32,140.47,,100.0,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+LRQ,2025-10-30,2.22,45.9,-0.0217,2.26,-28.64,,31.25,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+LSI,2025-10-30,28.0,60.87,0.0728,27.34,146.67,,100.0,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+LTX,2025-10-30,7.48,49.23,0.0004,7.51,-16.56,,47.62,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+LWB,2025-10-30,21.3,23.44,-0.0061,21.74,-36.84,,8.33,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+MAB,2025-10-30,8.3,33.73,0.0026,8.52,-82.35,,0.0,Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Silne Kupuj
+MAK,2025-10-30,23.6,62.71,0.0311,22.49,141.39,,100.0,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+MAN,2025-10-30,0.62,40.67,-0.0058,0.67,-130.41,,0.0,Trzymaj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+MBK,2025-10-30,1017.5,68.32,9.5391,955.88,116.06,,79.07,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Trzymaj,Sprzedaj
+MBR,2025-10-30,292.0,37.14,-0.1869,291.85,1.84,,33.33,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+MBW,2025-10-30,12.0,35.29,0.028,12.32,-35.68,,0.0,Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Silne Kupuj
+MCI,2025-10-30,29.9,60.0,0.0112,29.64,43.62,,71.43,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+MCR,2025-10-30,24.3,40.48,-0.1247,24.93,-113.74,,38.1,Trzymaj,Sprzedaj,Trzymaj,Kupuj,Trzymaj,Sprzedaj
+MDG,2025-10-30,33.35,42.58,-0.0681,34.94,-42.68,,22.92,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+MDI,2025-10-30,0.88,45.5,0.0116,0.81,56.09,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+MEG,2025-10-30,5.0,40.23,-0.1234,5.9,-111.06,,4.76,Trzymaj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+MEX,2025-10-30,3.4,39.64,-0.0164,3.51,-110.24,,8.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+MFO,2025-10-30,38.0,52.5,-0.0038,37.62,16.27,,67.86,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+MGT,2025-10-30,51.8,26.15,-0.3546,55.91,-115.32,,6.98,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+MIL,2025-10-30,15.74,56.04,0.0975,15.19,101.5,,66.87,Trzymaj,Kupuj,Trzymaj,Sprzedaj,Trzymaj,Sprzedaj
+MIR,2025-10-30,0.78,40.74,0.0002,0.79,-64.9,,0.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+MLG,2025-10-30,81.0,81.97,0.5773,76.55,115.84,,100.0,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+MLK,2025-10-30,1.86,54.37,0.0036,1.86,0.41,,45.95,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+MLS,2025-10-30,16.16,68.39,0.1515,15.19,119.0,,92.68,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+MNC,2025-10-30,33.7,66.67,0.0871,32.73,120.03,,91.3,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+MOC,2025-10-30,6.71,15.15,-0.0796,7.51,-261.62,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+MOJ,2025-10-30,1.44,53.33,0.0025,1.42,75.14,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+MOL,2025-10-30,32.52,72.31,0.3303,30.48,262.87,,93.38,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+MON,2025-10-30,5.2,84.09,0.0525,4.88,102.74,,81.08,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+MOV,2025-10-30,11.6,4.65,-0.0723,12.5,-100.01,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+MRB,2025-10-30,13.6,57.21,0.0315,13.61,-2.62,,18.37,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+MRC,2025-10-30,40.5,25.71,-0.0519,41.69,-63.51,,15.62,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+MSP,2025-10-30,15.35,45.61,-0.0377,15.46,-10.92,,36.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+MSW,2025-10-30,7.26,57.69,0.0342,7.1,105.55,,100.0,Trzymaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+MSZ,2025-10-30,6.7,52.38,-0.0279,6.73,-9.44,,32.14,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+MUR,2025-10-30,37.5,54.0,0.074,37.38,12.99,,87.5,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+MVP,2025-10-30,7.74,21.28,-0.0942,8.43,-142.76,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+MWT,2025-10-30,3.96,35.21,-0.0571,4.27,-120.05,,0.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+MXC,2025-10-30,5.3,52.94,0.0381,5.23,31.16,,60.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+MZA,2025-10-30,10.6,25.0,-0.0377,11.38,-124.23,,0.0,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+NCL,2025-10-30,97.6,15.96,-0.5355,101.68,-129.13,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+NEU,2025-10-30,740.0,57.86,0.4155,723.5,41.24,,64.52,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+NNG,2025-10-30,2.5,30.49,-0.0049,2.58,-49.53,,30.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+NTC,2025-10-30,0.61,33.33,-0.003,0.64,-90.84,,21.74,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+NTT,2025-10-30,9.2,36.57,0.063,9.28,-10.4,,79.17,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+NTU,2025-10-30,5.8,18.82,-0.0675,6.65,-104.31,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+NVA,2025-10-30,16.2,38.33,-0.1049,16.6,-105.0,,11.11,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+NVG,2025-10-30,1.2,26.39,-0.0041,1.23,-80.42,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+NVT,2025-10-30,109.0,78.0,1.5801,98.82,208.06,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+NWG,2025-10-30,91.0,65.88,0.3614,86.3,144.71,,100.0,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+NXG,2025-10-30,2.1,37.7,-0.0334,2.33,-94.18,,3.33,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+OBL,2025-10-30,38.6,65.0,0.0952,37.79,134.0,,85.71,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+ODL,2025-10-30,9.24,35.48,-0.0109,9.31,-18.82,,50.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+OND,2025-10-30,8.76,37.2,0.0012,8.97,-75.48,,13.64,Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Silne Kupuj
+ONO,2025-10-30,0.9,40.43,0.0003,0.9,-11.79,,50.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+OPG,2025-10-30,4.02,45.05,0.0011,4.16,-58.03,,8.7,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+OPL,2025-10-30,9.12,61.82,0.0316,9.02,34.15,,66.07,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+OPM,2025-10-30,3.3,37.14,-0.0173,3.45,-93.32,,26.32,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+OPN,2025-10-30,97.6,49.37,-0.5473,98.06,-6.11,,48.48,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+OTM,2025-10-30,4.88,53.92,0.0241,4.84,11.26,,48.57,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+OTS,2025-10-30,13.86,32.46,-0.0594,14.16,-53.3,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+PAS,2025-10-30,89.0,64.0,-0.1864,86.31,52.1,,77.05,Sprzedaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+PAT,2025-10-30,3.68,45.28,0.001,3.68,4.6,,84.62,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+PBF,2025-10-30,0.7,61.36,0.0066,0.63,70.31,,83.33,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+PBX,2025-10-30,14.95,44.19,0.0213,15.12,-39.71,,0.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+PCE,2025-10-30,8.4,45.98,-0.0003,8.47,-57.34,,41.18,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+PCF,2025-10-30,3.96,49.78,0.0584,3.87,25.74,,52.69,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+PCO,2025-10-30,28.2,63.88,-0.0943,27.36,27.12,,72.85,Sprzedaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+PCR,2025-10-30,68.9,50.94,0.1768,67.81,138.39,,100.0,Trzymaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+PCX,2025-10-30,2.5,43.59,0.0016,2.53,-41.18,,55.56,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+PEN,2025-10-30,2.25,9.09,-0.0213,2.54,-94.23,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+PEO,2025-10-30,193.8,68.6,1.1433,187.6,65.13,,74.91,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+PEP,2025-10-30,58.2,40.82,-0.1764,59.47,-93.04,,11.11,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+PGE,2025-10-30,11.3,60.85,0.1019,10.82,107.08,,83.28,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+PGM,2025-10-30,1.88,26.32,-0.0056,1.97,-67.88,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+PGV,2025-10-30,0.63,60.69,0.0072,0.58,47.97,,50.0,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+PHN,2025-10-30,9.9,51.16,0.0082,9.84,54.6,,78.57,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+PHR,2025-10-30,3.36,41.51,-0.0061,3.42,-40.49,,35.29,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+PJP,2025-10-30,14.95,48.15,0.006,14.91,25.84,,87.5,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+PKN,2025-10-30,100.6,82.12,0.8056,92.0,132.1,,100.0,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+PKO,2025-10-30,77.06,63.4,0.2347,75.36,41.85,,72.97,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+PKP,2025-10-30,16.11,33.15,-0.0709,16.61,-121.76,,0.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+PLW,2025-10-30,269.5,26.83,-0.6976,274.7,-74.95,,15.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+PLZ,2025-10-30,2.82,53.78,0.0084,2.79,58.51,,55.56,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+PPS,2025-10-30,0.92,62.5,0.0019,0.91,109.54,,100.0,Sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+PRI,2025-10-30,3.12,52.94,0.009,3.1,22.85,,83.33,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+PRM,2025-10-30,23.0,66.67,0.0528,22.17,61.14,,100.0,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+PRT,2025-10-30,1.29,32.73,-0.0248,1.47,-67.52,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+PTG,2025-10-30,25.7,33.33,-0.1916,26.9,-59.4,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+PTW,2025-10-30,141.0,35.71,-0.7553,144.55,-63.11,,33.33,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+PUR,2025-10-30,5.82,75.99,0.0757,4.64,396.78,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+PWX,2025-10-30,1.38,42.0,-0.0003,1.41,-63.76,,0.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+PXM,2025-10-30,5.95,28.85,-0.1586,6.8,-123.78,,0.57,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+PZU,2025-10-30,59.5,77.4,0.5198,56.32,198.88,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+QNA,2025-10-30,28.4,37.9,-0.0876,29.58,-71.78,,33.33,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+QNT,2025-10-30,25.8,85.71,0.2836,24.54,74.07,,90.91,Silne sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+QRS,2025-10-30,13.3,87.23,0.1355,12.26,102.66,,87.5,Silne sprzedaj,Kupuj,Trzymaj,Sprzedaj,Sprzedaj,Sprzedaj
+RAE,2025-10-30,0.65,44.83,-0.0105,0.65,-0.79,,39.45,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+RAF,2025-10-30,50.0,33.33,-0.2924,53.82,-145.2,,0.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+RBW,2025-10-30,122.0,42.06,0.3839,122.92,-19.06,,13.16,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+RDN,2025-10-30,0.05,30.95,-0.0002,0.06,-80.2,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+RFK,2025-10-30,0.01,8.22,0.0073,0.16,-64.51,,0.0,Silne Kupuj,Kupuj,Kupuj,Trzymaj,Kupuj,Silne Kupuj
+RHD,2025-10-30,0.07,47.89,0.0002,0.06,,,83.33,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+RLP,2025-10-30,5.2,42.86,-0.0045,5.22,-34.1,,57.14,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+RMK,2025-10-30,13.3,70.0,-0.0123,13.21,26.91,,75.0,Sprzedaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+RNC,2025-10-30,0.78,54.1,0.0068,0.78,11.52,,31.25,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+RND,2025-10-30,79.0,51.58,0.0286,77.69,64.93,,79.17,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+RNK,2025-10-30,4.06,49.65,0.0203,4.06,-2.7,,60.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+RPC,2025-10-30,23.3,44.0,0.0005,23.86,-105.66,,0.0,Trzymaj,Kupuj,Trzymaj,Kupuj,Kupuj,Silne Kupuj
+RVU,2025-10-30,24.3,30.47,-0.1261,26.23,-104.78,,0.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+RWL,2025-10-30,13.7,20.59,-0.042,14.26,-101.31,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+SAN,2025-10-30,36.8,51.6,0.0917,35.91,74.85,,83.64,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+SCP,2025-10-30,153.4,41.78,-2.7168,166.98,-119.6,,4.2,Trzymaj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+SEK,2025-10-30,8.28,52.17,0.0059,8.29,-20.42,,50.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+SEL,2025-10-30,38.8,52.86,-0.0315,38.08,91.34,,100.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+SEN,2025-10-30,0.71,9.26,0.0179,1.0,-145.23,,0.0,Silne Kupuj,Kupuj,Kupuj,Kupuj,Kupuj,Silne Kupuj
+SFG,2025-10-30,5.26,42.86,-0.0013,5.33,-33.52,,46.15,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+SFS,2025-10-30,0.4,46.43,0.0004,0.41,-74.95,,0.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+SGN,2025-10-30,98.6,30.43,-0.0787,102.0,-101.85,,5.56,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+SHD,2025-10-30,0.39,51.28,0.0007,0.4,-27.09,,7.14,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+SHG,2025-10-30,0.3,44.32,-0.0036,0.31,-38.3,,34.21,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+SHO,2025-10-30,54.0,67.47,0.2661,51.94,59.56,,57.65,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+SIM,2025-10-30,1.77,32.24,-0.0035,1.82,-32.74,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+SKA,2025-10-30,80.0,42.05,-0.0888,80.8,-35.85,,30.43,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+SKH,2025-10-30,31.5,56.92,0.007,30.78,80.62,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+SKL,2025-10-30,1.49,36.36,-0.0067,1.53,-82.6,,16.67,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+SLV,2025-10-30,35.7,47.87,-0.1637,36.64,-76.39,,34.48,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+SNK,2025-10-30,21.4,43.48,0.0038,21.74,-40.08,,0.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+SNT,2025-10-30,263.0,45.83,0.1012,257.36,78.42,,89.23,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+SNW,2025-10-30,1.5,38.64,-0.0068,1.51,-15.65,,41.18,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+SNX,2025-10-30,5.28,34.02,0.006,5.52,-31.88,,34.78,Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+SON,2025-10-30,16.9,36.36,0.002,17.18,-75.12,,14.29,Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Silne Kupuj
+SPH,2025-10-30,12.75,35.16,-0.2486,14.6,-170.42,,0.0,Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Silne Kupuj
+SPL,2025-10-30,503.0,57.95,2.2327,493.87,73.94,,69.03,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+SPR,2025-10-30,532.0,60.42,3.0979,525.7,36.58,,56.52,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+STF,2025-10-30,8.54,58.14,-0.0082,8.56,-8.46,,68.42,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+STP,2025-10-30,261.0,35.48,-1.4645,264.85,-20.98,,38.89,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+STS,2025-10-30,0.31,68.5,0.0015,0.29,73.14,,78.33,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+STX,2025-10-30,2.88,21.67,-0.0123,2.95,-75.44,,6.67,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+SVE,2025-10-30,4.1,39.6,0.0066,4.19,-57.45,,0.0,Kupuj,Kupuj,Trzymaj,Trzymaj,Kupuj,Silne Kupuj
+SVRS,2025-10-30,9.65,72.94,0.1302,8.2,88.34,,93.18,Silne sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+SWG,2025-10-30,28.0,50.0,-0.0517,28.02,-2.67,,100.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+TAR,2025-10-30,120.5,42.55,0.0927,122.12,-29.48,,62.5,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+TBL,2025-10-30,3.8,34.25,-0.0283,3.98,-62.66,,13.16,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+TEN,2025-10-30,90.0,35.54,-0.5343,91.78,-33.15,,24.39,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+THG,2025-10-30,6.24,38.98,-0.04,6.54,-142.41,,0.0,Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Silne Kupuj
+TLX,2025-10-30,19.7,27.66,0.0001,19.98,-54.64,,22.22,Silne Kupuj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+TMR,2025-10-30,98.0,48.0,-0.4573,97.78,6.46,,84.62,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+TOA,2025-10-30,10.24,52.0,-0.0101,10.21,6.69,,89.47,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+TOR,2025-10-30,53.4,79.06,0.4057,48.94,265.33,,100.0,Silne sprzedaj,Kupuj,Sprzedaj,Sprzedaj,Sprzedaj,Sprzedaj
+TOW,2025-10-30,2.35,49.22,0.0272,2.42,-21.68,,0.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+TPE,2025-10-30,9.93,69.6,0.1071,9.28,82.39,,72.68,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+TRI,2025-10-30,2.92,47.12,-0.0517,3.2,-63.94,,21.74,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+TRK,2025-10-30,2.76,53.92,-0.0013,2.67,80.68,,100.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+TRN,2025-10-30,3.93,73.33,0.0206,3.85,53.72,,75.0,Silne sprzedaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+TRR,2025-10-30,0.69,50.0,0.0001,0.69,-26.0,,50.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+TSG,2025-10-30,2.61,40.0,-0.004,2.64,-15.36,,50.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+TXT,2025-10-30,48.8,36.08,-0.2258,50.84,-141.4,,0.0,Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Silne Kupuj
+UCG,2025-10-30,270.25,49.91,0.5831,267.18,34.21,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+ULG,2025-10-30,14.1,51.52,-0.0355,13.87,10.27,,0.0,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+ULM,2025-10-30,58.5,40.0,-0.085,60.55,-185.0,,0.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+UNF,2025-10-30,1.32,51.67,0.012,1.28,55.06,,65.22,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+UNI,2025-10-30,11.15,59.09,0.0133,10.88,78.95,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+UNT,2025-10-30,130.2,42.11,0.441,129.91,3.3,,63.46,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+URT,2025-10-30,29.6,15.13,-0.1593,34.7,-56.35,,10.67,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+VGO,2025-10-30,520.0,43.18,-1.5731,520.7,-4.28,,85.71,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+VIN,2025-10-30,11.75,45.0,-0.0176,11.87,-28.16,,33.33,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+VOT,2025-10-30,46.45,48.98,-0.0664,46.69,-37.98,,33.27,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+VOX,2025-10-30,155.2,14.38,-1.5416,166.4,-107.31,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+VRC,2025-10-30,123.4,50.68,-0.0342,123.78,-20.29,,13.33,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+VRG,2025-10-30,4.49,41.67,-0.0134,4.59,-47.95,,31.25,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+VVD,2025-10-30,0.84,31.03,-0.0095,0.92,-63.89,,15.69,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+WAS,2025-10-30,1.68,34.29,-0.0091,1.76,-135.44,,2.94,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+WIK,2025-10-30,7.2,25.0,-0.1037,7.74,-83.99,,0.0,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+WIS,2025-10-30,0.04,17.08,-0.0354,0.31,-200.07,,0.14,Silne Kupuj,Sprzedaj,Kupuj,Kupuj,Kupuj,Kupuj
+WLT,2025-10-30,7.08,51.15,0.0181,6.98,40.69,,74.42,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+WPL,2025-10-30,56.6,47.2,0.0186,58.66,-78.14,,0.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Kupuj,Kupuj
+WPR,2025-10-30,3.42,46.94,-0.0131,3.46,-36.64,,45.83,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+WTN,2025-10-30,15.86,38.67,-0.0002,16.24,-111.21,,0.0,Kupuj,Sprzedaj,Trzymaj,Kupuj,Kupuj,Kupuj
+WWL,2025-10-30,702.0,55.38,0.2242,688.4,80.63,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+WXF,2025-10-30,2.56,32.26,-0.0065,2.61,-75.62,,14.29,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+XPL,2025-10-30,2.8,48.15,0.0228,2.73,62.19,,94.12,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+XTB,2025-10-30,68.5,54.21,0.2219,68.04,13.41,,78.38,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+XTP,2025-10-30,72.0,51.46,0.7606,71.11,11.74,,72.6,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+YAN,2025-10-30,14.7,50.0,0.0215,14.19,88.71,,100.0,Trzymaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+YRL,2025-10-30,7.64,59.66,0.075,7.41,34.95,,59.02,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ZAB,2025-10-30,21.53,49.08,-0.0373,21.65,-22.96,,56.88,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Trzymaj,Sprzedaj
+ZAP,2025-10-30,46.7,33.33,-0.0368,47.36,-91.31,,0.0,Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Kupuj
+ZEP,2025-10-30,21.8,49.41,0.0308,21.9,-7.31,,35.48,Trzymaj,Kupuj,Trzymaj,Trzymaj,Trzymaj,Kupuj
+ZMT,2025-10-30,0.8,40.63,-0.0008,0.82,-46.92,,16.67,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+ZRE,2025-10-30,9.98,27.61,-0.152,10.46,-73.95,,5.97,Silne Kupuj,Sprzedaj,Trzymaj,Trzymaj,Kupuj,Sprzedaj
+ZUE,2025-10-30,11.1,66.67,0.0391,10.81,57.09,,87.5,Sprzedaj,Kupuj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
+ZUK,2025-10-30,4.18,41.79,-0.0272,4.11,15.29,,94.44,Trzymaj,Sprzedaj,Trzymaj,Trzymaj,Sprzedaj,Sprzedaj
