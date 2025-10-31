@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 st.set_page_config(page_title="Aplikacja Finansowa", layout="wide")
-st.logo("Utils\stockedu.svg", size="large")
+st.logo("Utils/stockedu.svg", size="large")
 
 # ---- Load data ----
 if "all_data" not in st.session_state:
