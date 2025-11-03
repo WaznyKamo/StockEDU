@@ -22,5 +22,6 @@ AgGrid(
     update_mode=GridUpdateMode.NO_UPDATE,
     enable_enterprise_modules=True,
     theme="streamlit",  
-    height=600
+    height=600,
+    columns_auto_size_mode=True
     )
