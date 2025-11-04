@@ -55,26 +55,33 @@ tab1, tab2, tab3 = st.tabs(["📊 Dane finansowe", "📈 Wizualizacja wskaźnik�
 with tab1:
     st.subheader("Wskaźniki finansowe")
 
-    # Konfiguracja AgGrid
+    # Konfiguracja AgGrid z poprawkami do wyświetlania w streamlit.app
     gb = GridOptionsBuilder.from_dataframe(financial_data)
     gb.configure_default_column(
-        filter=True,          # umożliwia filtrowanie
-        sortable=True,        # sortowanie kolumn
-        resizable=True,       # zmiana szerokości
-        editable=False
+        editable=False,
+        groupable=True,
+        filter=True,
+        sortable=True,
+        resizable=True,
+        minWidth=120,
+        wrapHeaderText=True,
+        autoHeaderHeight=True
     )
-    # gb.configure_selection("multiple", use_checkbox=True)  # opcjonalny wybór wielu wierszy
-    gb.configure_side_bar()  # panel boczny z wyborem kolumn i filtrami
+    gb.configure_side_bar()
+
     grid_options = gb.build()
 
     AgGrid(
         financial_data,
         gridOptions=grid_options,
-        update_mode=GridUpdateMode.MANUAL,
+        update_mode=GridUpdateMode.NO_UPDATE,
         enable_enterprise_modules=True,
-        columns_auto_size_mode=ColumnsAutoSizeMode.FIT_ALL_COLUMNS_TO_VIEW
-        # fit_columns_on_grid_load=True
+        theme="streamlit",
+        height=600,
+        columns_auto_size_mode=ColumnsAutoSizeMode.FIT_ALL_COLUMNS_TO_VIEW,
+        fit_columns_on_grid_load=True
     )
+
 
 with tab2:
     col1, col2 = st.columns([1, 3])  # lewa kolumna na wybór, prawa na wykres
