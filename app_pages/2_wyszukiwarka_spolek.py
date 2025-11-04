@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
+from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode, ColumnsAutoSizeMode
 from Scripts.data_visualisation import plot_multiple_y_axes
 import plotly.express as px
 
@@ -72,7 +72,7 @@ with tab1:
         gridOptions=grid_options,
         update_mode=GridUpdateMode.MANUAL,
         enable_enterprise_modules=True,
-        columns_auto_size_mode=True
+        columns_auto_size_mode=ColumnsAutoSizeMode.FIT_CONTENTS
         # fit_columns_on_grid_load=True
     )
 

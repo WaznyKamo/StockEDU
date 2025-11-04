@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode
+from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode, ColumnsAutoSizeMode
 
 st.title("Przegląd wartości wskaźników finansowych spółek")
 st.write("Narzędzie do identyfikacji spółek o wysokim potencjale wzrostu.")
@@ -23,5 +23,5 @@ AgGrid(
     enable_enterprise_modules=True,
     theme="streamlit",  
     height=600,
-    columns_auto_size_mode=True
+    columns_auto_size_mode=ColumnsAutoSizeMode.FIT_CONTENTS
     )
