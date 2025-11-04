@@ -1,8 +1,7 @@
 import streamlit as st
-import pandas as pd
 from st_aggrid import AgGrid, GridOptionsBuilder, GridUpdateMode, ColumnsAutoSizeMode
 
-st.title("Przegląd wartości wskaźników finansowych spółek")
+st.title("📋 Przegląd wartości wskaźników finansowych spółek")
 st.write("Narzędzie do identyfikacji spółek o wysokim potencjale wzrostu.")
 
 latest_data = st.session_state.latest_data
