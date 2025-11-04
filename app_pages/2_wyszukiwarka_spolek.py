@@ -72,7 +72,7 @@ with tab1:
         gridOptions=grid_options,
         update_mode=GridUpdateMode.MANUAL,
         enable_enterprise_modules=True,
-        columns_auto_size_mode=ColumnsAutoSizeMode.FIT_CONTENTS
+        columns_auto_size_mode=ColumnsAutoSizeMode.FIT_ALL_COLUMNS_TO_VIEW
         # fit_columns_on_grid_load=True
     )
 

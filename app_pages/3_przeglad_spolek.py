@@ -23,5 +23,5 @@ AgGrid(
     enable_enterprise_modules=True,
     theme="streamlit",  
     height=600,
-    columns_auto_size_mode=ColumnsAutoSizeMode.FIT_CONTENTS
+    columns_auto_size_mode=ColumnsAutoSizeMode.FIT_ALL_COLUMNS_TO_VIEW
     )
