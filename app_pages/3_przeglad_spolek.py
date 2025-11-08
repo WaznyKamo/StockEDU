@@ -7,6 +7,11 @@ st.write("Narzędzie do identyfikacji spółek o wysokim potencjale wzrostu.")
 latest_data = st.session_state.latest_data
 latest_data = latest_data.sort_values(by='Ticker')
 
+st.info("""💡 Jak korzystać z tabeli:\n
+Kliknij nagłówek kolumny, aby sortować dane (klikaj ponownie, by zmienić kierunek).\n
+Użyj ikony lejka przy nazwie kolumny, aby filtrować wartości.\n
+Możesz stosować filtry w wielu kolumnach jednocześnie.""")
+
 gb = GridOptionsBuilder.from_dataframe(latest_data)
 gb.configure_default_column(
     editable=True,

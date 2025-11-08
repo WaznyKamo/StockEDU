@@ -17,7 +17,7 @@ pages = [
     st.Page("app_pages/1_strona_glowna.py", title="Strona główna", icon="🏠"),
     st.Page("app_pages/2_wyszukiwarka_spolek.py", title="Wyszukaj spółkę", icon="🔍"),
     st.Page("app_pages/3_przeglad_spolek.py", title="Przegląd spółek", icon="📋"),
-    st.Page("app_pages/4_wiadomosci.py", title="Wiadomości", icon="📰")
+    st.Page("app_pages/4_wiedza.py", title="Wiedza", icon="📰")
 ]
 
 pg = st.navigation(pages, position="sidebar", expanded=True)
