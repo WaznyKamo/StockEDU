@@ -27,10 +27,16 @@ if selected:
     if article_path.exists():
         text = article_path.read_text(encoding="utf-8")
 
+        # Przycisk powrotu nad treścią
+        if st.button("⬅️ Powrót do listy artykułów", key="back_top"):
+            st.query_params.clear()
+            st.rerun()
+
         st.markdown(text, unsafe_allow_html=True)
         st.divider()
 
-        if st.button("⬅️ Powrót do listy artykułów"):
+        # Przycisk powrotu pod treścią (jak wcześniej)
+        if st.button("⬅️ Powrót do listy artykułów", key="back_bottom"):
             st.query_params.clear()
             st.rerun()
     else:
