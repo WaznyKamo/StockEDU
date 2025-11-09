@@ -55,10 +55,8 @@ tab1, tab2, tab3 = st.tabs(["📊 Dane finansowe", "📈 Wizualizacja wskaźnik�
 with tab1:
     st.subheader("Wskaźniki finansowe")
     
-    st.info("""💡 Jak korzystać z tabeli:\n
-    Kliknij nagłówek kolumny, aby sortować dane (klikaj ponownie, by zmienić kierunek).\n
-    Użyj ikony lejka przy nazwie kolumny, aby filtrować wartości.\n
-    Możesz stosować filtry w wielu kolumnach jednocześnie.""")
+    st.info("""💡 Kliknij nagłówek kolumny, aby sortować dane. Użyj ikony lejka przy nazwie kolumny, aby filtrować wartości. Możesz stosować filtry w wielu kolumnach jednocześnie.""")
+
     
     # Konfiguracja AgGrid z poprawkami do wyświetlania w streamlit.app
     gb = GridOptionsBuilder.from_dataframe(financial_data)
