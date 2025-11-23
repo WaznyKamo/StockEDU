@@ -15,7 +15,7 @@ st.dataframe(latest_data.sort_values(by='Cena/WK [-]', ascending=True).head(8))
 
 st.header("Spółki z technicznym sygnałem silnego zakupu:", divider="blue")
 technical_data = st.session_state.technical_data
-silne_kupuj = technical_data[technical_data['Overall_signal'] == 'Silne Kupuj'][['Ticker', 'RSI_signal', 'MACD_signal', 'BB_signal', 'CCI_signal', 'Stochastic_signal', 'Overall_signal']]
+silne_kupuj = technical_data[technical_data['Overall_signal'] == 'Silne kupuj'][['Ticker', 'RSI_signal', 'MACD_signal', 'BB_signal', 'CCI_signal', 'Stochastic_signal', 'Overall_signal']]
 silne_kupuj.rename(columns={
     'Ticker': 'Ticker',
     'RSI_signal': 'Sygnał RSI',
