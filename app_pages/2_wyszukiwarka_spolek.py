@@ -30,7 +30,7 @@ with col2:
         df_prices = daily_data[["DATE", selected_company_ticker]].copy()
         # Konwersja daty i porządkowanie
         df_prices["DATE"] = pd.to_datetime(df_prices["DATE"], errors="coerce")
-        df_prices = df_prices.dropna(subset=["DATE"]).sort_values("DATE")
+        df_prices = df_prices.dropna().sort_values("DATE")
 
         if df_prices.empty:
             st.warning("Brak danych dziennych dla wybranej spółki.")
